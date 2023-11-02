@@ -1,2 +1,2 @@
-# cve 2023 templates
+# 2023 templates
 
