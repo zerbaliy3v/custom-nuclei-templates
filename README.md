@@ -1,2 +1,2 @@
-# 2023 templates
+# Nuclei templates
 
